@@ -622,7 +622,7 @@ The later ASIC-oriented flow will introduce tools and concepts such as:
 
 **Saswati Anupama Mathan**
 
-M.Tech — Electronics and Communication Engineering
+M.Tech — Electronics and Communication Engineering (Specialisation - Communication)
 Communication Engineering
 
 This repository is part of a structured progression toward RTL design, FPGA development, digital verification, and ASIC design-flow fundamentals.
