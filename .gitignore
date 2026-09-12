@@ -1,0 +1,10 @@
+# Questa / ModelSim generated files
+work/
+*.wlf
+*.bak
+*.mti
+*.cr.mti
+
+# OS/editor temporary files
+.DS_Store
+Thumbs.db
